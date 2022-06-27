@@ -1,0 +1,15 @@
+body,p{
+    padding: 0;
+    margin: 0;
+}
+.fontsize-30{
+    font-size: 3rem;
+}
+.icon{ 
+        width: 2.4rem;
+        height: 1.8rem;
+        padding: 2.4rem; 
+}
+.pad-3{
+    padding: 3rem;
+}
